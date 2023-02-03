@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizyFi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Token">Don\'t Have Account?<font color="#FF00BCD4">SignUp</font> </string>
+    <string name="Token1">Already Have an Account? <font color="#FF00BCD4">LogIn</font></string>
+</resources>
